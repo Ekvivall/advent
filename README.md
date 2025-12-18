@@ -33,7 +33,7 @@ This project was designed to create an engaging holiday experience with real-tim
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/advent-calendar.git](https://github.com/your-username/advent-calendar.git)
+    git clone https://github.com/Ekvivall/advent.git
     ```
 2.  **Install dependencies:**
     ```bash
